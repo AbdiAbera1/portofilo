@@ -13,7 +13,7 @@ from werkzeug.middleware.proxy_fix import ProxyFix
 
 
 BASE_DIR = Path(__file__).resolve().parent
-RECIPIENT = "worldbbc@gmail.com"
+RECIPIENT = "worldbbcabdi@gmail.com"
 REQUEST_TYPES = {
     "Website development",
     "IT management or support",

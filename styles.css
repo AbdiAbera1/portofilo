@@ -542,7 +542,6 @@ p {
 }
 
 .about-copy {
-  max-width: 495px;
   padding-top: 33px;
 }
 
@@ -554,9 +553,33 @@ p {
 .about-copy .about-lead {
   margin-bottom: 19px;
   color: var(--text);
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 16px;
   line-height: 1.6;
+}
+
+.about-copy h3 {
+  margin: 24px 0 12px;
+  color: var(--text);
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.about-copy ul {
+  display: grid;
+  gap: 13px;
+  margin: 0;
+  padding-left: 20px;
+  color: #a5a9b3;
+  line-height: 1.75;
+}
+
+.about-copy li {
+  padding-left: 3px;
+}
+
+.about-copy strong {
+  color: var(--text);
+  font-weight: 600;
 }
 
 .about-copy .text-link {

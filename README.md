@@ -1,7 +1,7 @@
 # Abdi Abera Portfolio
 
 The portfolio is served by a small Flask backend. Contact form submissions are
-validated and emailed to `worldbbc@gmail.com` through Gmail SMTP.
+validated and emailed to `worldbbcabdi@gmail.com` through Gmail SMTP.
 
 ## Run locally on Windows
 
@@ -14,7 +14,7 @@ validated and emailed to `worldbbc@gmail.com` through Gmail SMTP.
    pip install -r requirements.txt
    ```
 
-3. Create a Google App Password for `worldbbc@gmail.com` (Google Account
+3. Create a Google App Password for `worldbbcabdi@gmail.com` (Google Account
    2-Step Verification must be enabled). Keep it private, then set it in the
    current PowerShell session:
 
